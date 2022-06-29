@@ -1,0 +1,11 @@
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.csproj.AssemblyReference.cache
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.Form1.resources
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.Properties.Resources.resources
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.csproj.GenerateResource.cache
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\bin\Debug\AreaT.exe.config
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\bin\Debug\AreaT.exe
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\bin\Debug\AreaT.pdb
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.exe
+C:\Users\guilherme.cmacedo3\Desktop\UC12\AreaT\AreaT\obj\Debug\AreaT.pdb
